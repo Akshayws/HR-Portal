@@ -22,7 +22,7 @@ A web-based **HR Management System** that allows HR personnel to manage employee
 ⚡ React.js | 🎨 Bootstrap | 🔀 React Router | 🔗 Fetch API  
 
 **Backend (Server):**  
-🖥 Spring Boot | 🔒 Spring Security (JWT) | 🗄 MySQL | 📦 Spring Data JPA | ✍ Lombok | 🛠 Postman  
+🖥 Spring Boot | 🔒 Spring Security (JWT) | 🗄 MySQL | Hibernate | 📦 Spring Data JPA | ✍ Lombok | 🛠 Postman  
 
 ---
 
